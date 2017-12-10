@@ -1,0 +1,4 @@
+#Sun Dec 10 19:59:08 IRKT 2017
+base.0=C\:\\Users\\Admin\\Desktop\\Android\\Fragments\\Lab3c_FragmentsLab\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
